@@ -68,6 +68,7 @@ else:
  
 ```
 # Output : 
+![prob exp2](https://github.com/ADARSH778/Poisson_distribution/assets/149347361/a5ab2a1a-722d-4262-b322-ec37dd6fb82f)
 
 
 
